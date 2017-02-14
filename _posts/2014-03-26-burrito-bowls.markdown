@@ -3,7 +3,7 @@ title: Burrito Bowls
 layout: post
 ---
 
-By Edward on March 26, 2014
+By Edward
 
 Tonight, I made burrito bowls that are similar to what you would find at
 some chain Mexican restaurants. These are super simple dishes to make.

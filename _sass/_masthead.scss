@@ -6,6 +6,19 @@
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
+
+  nav {
+      margin-left: auto;
+      margin-right: auto;
+      text-align: center;
+      font-size: 75%;
+      font-weight: 400;
+      font-family: 'OFL Sorts Mill Goudy TT', Georgia, serif;
+  }
+
+  a {
+      color: #666666;
+  }
 }
 
 .masthead-title {

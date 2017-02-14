@@ -2,7 +2,7 @@
 title: 'Quick n’ Easy Chocolate Chip Scones'
 layout: post
 ---
-By Natasha on April 29, 2014
+By Natasha
 
 I always thought that scones are difficult and time consuming to make… I
 don’t know why, because when I saw how Edward made it, I completely

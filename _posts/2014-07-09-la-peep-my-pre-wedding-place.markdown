@@ -2,7 +2,7 @@
 title: 'La Peep - My Pre-Wedding Place'
 layout: post
 ---
-By Natasha on July 9, 2014
+By Natasha
 
 ![file](/img/image-1404874688966.png)
 

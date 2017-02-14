@@ -3,7 +3,7 @@ title: Chicken Salad from Colorado
 layout: post
 ---
 
-By Natasha on May 7, 2014
+By Natasha
 
 ![file](/img/image-1399858222192.png)
 

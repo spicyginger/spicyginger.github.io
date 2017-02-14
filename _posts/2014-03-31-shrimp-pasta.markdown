@@ -3,7 +3,7 @@ title: Shrimp Pasta
 layout: post
 ---
 
-By Natasha on March 31, 2014
+By Natasha
 
 This recipe is one of my favorites. It’s so easy to make and it will
 take less than 30 min overall. Very elegant and sophisticated too!

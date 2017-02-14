@@ -3,7 +3,7 @@ title: Double Tomato Bruschetta
 layout: post
 ---
 
-By Natasha on March 20, 2014
+By Natasha
 
 Sometimes you crave some snack which is healthy and filling at the same
 time. Here it is: Double Tomato Bruschetta! It can be a great appetizer

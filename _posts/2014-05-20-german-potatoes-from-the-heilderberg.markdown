@@ -3,7 +3,7 @@ title: German Potatoes from The Heidelberg
 layout: post
 ---
 
-By Natasha on May 20, 2014
+By Natasha
 
 Edward took me to Columbia, MO to his friends' wedding and also wanted
 to show me his favorite university and restaurants. We went to The

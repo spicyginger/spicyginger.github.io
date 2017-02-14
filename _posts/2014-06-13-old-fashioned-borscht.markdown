@@ -2,7 +2,7 @@
 title: Old Fashioned Borscht
 layout: post
 ---
-By Natasha on June 13, 2014
+By Natasha
 
 ![file](/img/image-1402673155152.png)
 

@@ -2,7 +2,7 @@
 title: Cookies of My Dreams
 layout: post
 ---
-By Natasha on February 28, 2014
+By Natasha
 
 We stayed at the Hilton hotel in New York while on a vacation, and they
 had this big jar of free cookies available to everyone every night in

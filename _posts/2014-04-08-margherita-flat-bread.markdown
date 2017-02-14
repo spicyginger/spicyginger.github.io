@@ -3,7 +3,7 @@ title: Margherita Flat Bread
 layout: post
 ---
 
-By Natasha on April 8, 2014
+By Natasha
 
 This post is solely about how I like Margherita flat bread… but not just
 any – Margherita flat bread by Kona Grill in Omaha! They really need a

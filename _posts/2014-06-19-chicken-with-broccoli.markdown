@@ -2,7 +2,7 @@
 title: Chicken with Broccoli
 layout: post
 ---
-By Edward on June 19, 2014
+By Edward
 
 This is one of my go-to recpies when I want something easy to make that
 still tastes great. It is a Chinese-ish recipe. Sliced chiken breasts

@@ -3,7 +3,7 @@ title: Chicken Noodle Soup
 layout: post
 ---
 
-By Natasha on May 26, 2014
+By Natasha
 
 This chicken noodle soup became my favorite after I watched the video
 with this recipe online by Anne Burrell (one of my favorite star chefs)

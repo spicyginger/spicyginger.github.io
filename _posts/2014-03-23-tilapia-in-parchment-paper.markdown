@@ -3,7 +3,7 @@ title: Tilapia in Parchment Paper
 layout: post
 ---
 
-By Natasha on March 23, 2014
+By Natasha
 
 Tilapia in parchment paper, honestly, is one of my favorite recipes and
 to-go dishes that I make on a weekly basis.

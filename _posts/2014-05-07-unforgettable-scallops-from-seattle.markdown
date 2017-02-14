@@ -3,7 +3,7 @@ title: Unforgettable Scallops from Seattle
 layout: post
 ---
 
-By Natasha on May 7, 2014
+By Natasha
 
 My sister and her husband went to Seattle for couple of days, and as
 soon as they arrived, they emailed me these wonderful pictures of their

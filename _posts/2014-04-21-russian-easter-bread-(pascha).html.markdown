@@ -3,7 +3,7 @@ title: 'Russian Easter Bread (Pascha)'
 layout: post
 ---
 
-By Natasha on April 21, 2014
+By Natasha
 
 Easter is a bright, joyful and family holiday to me. I’m Russian
 Orthodox and my family always celebrated this day with Pascha bread and

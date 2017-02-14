@@ -3,7 +3,7 @@ title: 'Rigatoni with Artichokes, Garlic, and Orange Zest'
 layout: post
 ---
 
-By Natasha on April 13, 2014
+By Natasha
 
 This recipe was inspired by Huffingtonpost.com where I found it. Edward
 and I both liked it and decided to make it one day. It is definitely one

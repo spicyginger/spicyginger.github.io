@@ -3,7 +3,7 @@ title: New York City
 layout: post
 ---
 
-By Natasha on February 26, 2014
+By Natasha
 
 We went to New York last week for Edward’s uncle’s wedding. It was a
 great trip with lots of fun time with his family, long walks, picture

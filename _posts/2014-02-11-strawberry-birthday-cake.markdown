@@ -6,7 +6,7 @@ tags:
 ---
 
 
-By Natasha on February 11, 2014
+By Natasha
 
 It was my niece's 4th birthday and I had to come up with a cake that
 will suit her love of anything pink(!) and my interest in dessert

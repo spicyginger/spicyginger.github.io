@@ -2,7 +2,7 @@
 title: Salted Salmon
 layout: post
 ---
-By Natasha on June 2, 2014
+By Natasha
 
 Salted salmon is something I can crave for, it's so popular in my half
 Russian, half Korean family that my mom shared this great easy recipe

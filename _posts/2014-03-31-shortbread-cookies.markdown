@@ -3,7 +3,7 @@ title: Shortbread Cookies
 layout: post
 ---
 
-By Natasha on March 31, 2014
+By Natasha
 
 If you need to make tasty cookies in no time, take a look at this
 recipe.

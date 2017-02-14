@@ -3,7 +3,7 @@ title: 'Salmon Patties (Perfect for Lent)'
 layout: post
 ---
 
-By Natasha on March 10, 2014
+By Natasha
 
 It’s time of Lent. If you fast this recipe is a great treat for you this
 time a year. If you don’t – it’s super easy to make and so healthy,
